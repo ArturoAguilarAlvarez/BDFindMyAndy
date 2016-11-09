@@ -137,3 +137,6 @@ CREATE TABLE acciones (
 
   INSERT INTO usuarios (idUsuario,nombre,apellidoP,apellidoM,ciudad,genero,email,fechaNacimiento, password) VALUES
 (1234567890,'Arturo','Aguilar','Alvarez','Playa del Carmen','H','gpkharvi@gmail.com','1996-10-30', 'password');
+
+
+#cambio
